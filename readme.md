@@ -8,6 +8,9 @@ This contract is built using Solidity and is deployable on any Ethereum-compatib
 ## Contract Address
 0xd9145CCE52D386f254917e481eB44e9943F39138
 
+![image](https://github.com/user-attachments/assets/340014d9-8312-4801-a9c9-3f51e3742a5c)
+
+
 ## Project Vision
 The vision of ProgressTracker is to empower learners by providing a decentralized solution for managing and tracking their learning goals. By leveraging blockchain technology, we ensure transparency, reliability, and immutability, creating a trustworthy system for learners worldwide.
 
